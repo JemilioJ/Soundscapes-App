@@ -2,8 +2,7 @@
     "Sounds3": [
         {   SoundName: "Waterfall",
             SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/waterfall.jpg?raw=true",
-            webAddress: ""
-        },
+            webAddress: ""},
         {   SoundName: "Rain",
             SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/rain.jpg?raw=true",
             webAddress: ""},
