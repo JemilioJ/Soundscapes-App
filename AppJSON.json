@@ -2,37 +2,37 @@
 	"Sounds3": [
 		{
 			"SoundName": "Waterfall",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/main/waterfall.jpeg?raw=true",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/waterfall.jpeg",
 			"webAddress": ""
 		},
 		{
 			"SoundName": "Rain",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/main/rain.jpeg?raw=true",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/rain.jpeg",
 			"webAddress": ""
 		},
 		{
 			"SoundName": "Forest",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/main/forest.jpeg?raw=true",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/forest.jpeg?raw=true",
 			"webAddress": ""
 		},
 		{
 			"SoundName": "Beats01",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/main/beats01.jpeg?raw=true",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/beats01.jpeg?raw=true",
 			"webAddress": ""
 		},
 		{
 			"SoundName": "Beats02",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/main/beats02.jpeg?raw=true",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/beats02.jpeg?raw=true",
 			"webAddress": ""
 		},
 		{
 			"SoundName": "Shepard Tone",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/main/shepard tone.jpeg?raw=true",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/shepard%20tone.jpeg",
 			"webAddress": "https://en.wikipedia.org/wiki/Shepard_tone"
 		},
 		{
 			"SoundName": "Jungle",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/main/jungle.jpeg?raw=true",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/jungle.jpeg",
 			"webAddress": "https://en.wikipedia.org/wiki/Peninsular_Malaysian_rain_forests"
 		}
 	],
