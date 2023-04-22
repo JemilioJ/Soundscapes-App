@@ -2,7 +2,7 @@
 	"Sounds3": [
 		{
 			"SoundName": "Waterfall",
-			"SoundImage": "https://raw.githubusercontent.com/JemilioJ/Soundscapes-App/main/waterfall.jpeg",
+			"SoundImage": "waterfall.jpeg",
 			"webAddress": ""
 		},
 		{
@@ -12,27 +12,27 @@
 		},
 		{
 			"SoundName": "Forest",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/forest.jpeg?raw=true",
+			"SoundImage": "forest.jpeg",
 			"webAddress": ""
 		},
 		{
 			"SoundName": "Beats01",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/beats01.jpeg?raw=true",
+			"SoundImage": "beats01.jpeg",
 			"webAddress": ""
 		},
 		{
 			"SoundName": "Beats02",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/beats02.jpeg?raw=true",
+			"SoundImage": "beats02.jpeg",
 			"webAddress": ""
 		},
 		{
 			"SoundName": "Shepard Tone",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/shepard%20tone.jpeg",
+			"SoundImage": "tone.jpeg",
 			"webAddress": "https://en.wikipedia.org/wiki/Shepard_tone"
 		},
 		{
 			"SoundName": "Jungle",
-			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/b0cf995a6f6c01ae16c0afeea78f31d392bb7e0e/jungle.jpeg",
+			"SoundImage": "jungle.jpeg",
 			"webAddress": "https://en.wikipedia.org/wiki/Peninsular_Malaysian_rain_forests"
 		}
 	],
