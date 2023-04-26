@@ -1,0 +1,25 @@
+{
+	"Sounds1": [
+		{
+			"SoundName": "Waterfall",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/d313a2cff555d92b78f622312a6aa998bcf56306/waterfall.jpeg?raw=true",
+			"webAddress": ""
+		},
+		{
+			"SoundName": "Rain",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/d313a2cff555d92b78f622312a6aa998bcf56306/rain.jpeg?raw=true",
+			"webAddress": ""
+		},
+		{
+			"SoundName": "Forest",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/d313a2cff555d92b78f622312a6aa998bcf56306/forest.jpeg?raw=true",
+			"webAddress": ""
+		},
+		{
+			"SoundName": "Jungle",
+			"SoundImage": "https://github.com/JemilioJ/Soundscapes-App/blob/d313a2cff555d92b78f622312a6aa998bcf56306/jungle.jpeg?raw=true",
+			"webAddress": "https://en.wikipedia.org/wiki/Peninsular_Malaysian_rain_forests"
+		}
+	],
+	"Status": "OK"
+}
